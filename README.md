@@ -1,4 +1,4 @@
-# Just your regular bad dev trying to make things work.
+# Just your regular bad dev trying to make his things work.
 
 <!--
 **RedeiFantasmi/RedeiFantasmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
